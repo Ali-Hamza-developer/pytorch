@@ -30,12 +30,12 @@ A running log of notebooks as I go from raw tensors to actual neural networks in
 
 ## Running locally
 
-\`\`\`bash
+```bash
 git clone https://github.com/Ali-Hamza-developer/pytorch.git
 cd pytorch
 pip install torch torchvision torchinfo pandas scikit-learn jupyter
 jupyter notebook
-\`\`\`
+```
 
 ## Author
 
